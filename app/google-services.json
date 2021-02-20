@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "959777859573",
+    "project_id": "otptest-fcab4",
+    "storage_bucket": "otptest-fcab4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:959777859573:android:f5981ee9efaeaecde5a2bc",
+        "android_client_info": {
+          "package_name": "com.example.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "959777859573-fpcvgcmmlp996e8t8fpo8j837tgdvk2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasetest",
+            "certificate_hash": "bb3aaea1c3bd5f61b7688934ece747e0de8e3137"
+          }
+        },
+        {
+          "client_id": "959777859573-u3tafdbujihgcb1agpfj8cf2ukv7dl49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA07PUzGwtmJ4eYlaJ139m9bkL_mbhyWas"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "959777859573-u3tafdbujihgcb1agpfj8cf2ukv7dl49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
